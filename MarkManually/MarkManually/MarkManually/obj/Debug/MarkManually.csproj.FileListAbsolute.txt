@@ -1,0 +1,10 @@
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\bin\Debug\MarkManually.exe.config
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\bin\Debug\MarkManually.exe
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\bin\Debug\MarkManually.pdb
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\obj\Debug\MarkManually.csprojAssemblyReference.cache
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\obj\Debug\MarkManually.Form1.resources
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\obj\Debug\MarkManually.Properties.Resources.resources
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\obj\Debug\MarkManually.csproj.GenerateResource.cache
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\obj\Debug\MarkManually.csproj.CoreCompileInputs.cache
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\obj\Debug\MarkManually.exe
+E:\Graduation Project\Workplace\HiData\Images\MarkManually\MarkManually\MarkManually\obj\Debug\MarkManually.pdb
